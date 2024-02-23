@@ -34,8 +34,6 @@ list_of_files = [
     "config/model.yaml",
     "config/schema.yaml",
     "test.py"
-
-
 ]
 
 
